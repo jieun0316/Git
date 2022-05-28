@@ -6,5 +6,6 @@ public class GitClass {
 		String ver2 = "";
 		String ver3 = "";
 		String ver5 = "";
+		String ver6 = "";
 	}
 }
